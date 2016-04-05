@@ -1,0 +1,1 @@
+Under Linux or Unix environment, navigate to project directory and run make in the terminal to build. The library "pngwriter" is needed. Install pngwriter following the instructions on its GitHub repo. For now you will have to modify World::build() function in world.cpp and re-build the program to change rendering settings. Have fun. 

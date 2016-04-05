@@ -1,0 +1,14 @@
+100 Spheres
+real    1m17.784s
+user    1m16.143s
+sys     0m0.334s
+
+1000 Spheres
+real    3m35.756s
+user    3m35.341s
+sys     0m0.171s
+
+10000 Spheres
+real    12m17.350s
+user    12m11.602s
+sys     0m1.610s
